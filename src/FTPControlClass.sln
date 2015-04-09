@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "FTPControlClass", "FTPControlClass.vbproj", "{9FCA6EC7-6663-4DEA-AC62-8F4AEACB0881}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{9FCA6EC7-6663-4DEA-AC62-8F4AEACB0881}.Debug.ActiveCfg = Debug|.NET
+		{9FCA6EC7-6663-4DEA-AC62-8F4AEACB0881}.Debug.Build.0 = Debug|.NET
+		{9FCA6EC7-6663-4DEA-AC62-8F4AEACB0881}.Release.ActiveCfg = Release|.NET
+		{9FCA6EC7-6663-4DEA-AC62-8F4AEACB0881}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
